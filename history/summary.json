@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 72,
-    "timeWeek": 72,
-    "timeMonth": 72,
-    "timeYear": 72,
+    "time": 74,
+    "timeDay": 74,
+    "timeWeek": 74,
+    "timeMonth": 74,
+    "timeYear": 74,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 121,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 121,
+    "time": 135,
+    "timeDay": 135,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/este-sitio-no-existe-123456.com.ico",
     "slug": "sitio-roto",
     "status": "down",
-    "uptime": "1.12%",
-    "uptimeDay": "1.12%",
-    "uptimeWeek": "1.12%",
-    "uptimeMonth": "1.12%",
-    "uptimeYear": "1.12%",
+    "uptime": "0.84%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "0.84%",
+    "uptimeMonth": "0.84%",
+    "uptimeYear": "0.84%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 30
+      "2026-07-31": 41
     }
   }
 ]
