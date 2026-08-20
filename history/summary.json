@@ -10,11 +10,11 @@
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 96,
-    "timeDay": 84,
-    "timeWeek": 125,
-    "timeMonth": 96,
-    "timeYear": 96,
+    "time": 99,
+    "timeDay": 170,
+    "timeWeek": 136,
+    "timeMonth": 99,
+    "timeYear": 99,
     "dailyMinutesDown": {
       "2026-08-17": 48
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 167,
-    "timeDay": 273,
-    "timeWeek": 163,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 162,
+    "timeDay": 31,
+    "timeWeek": 161,
+    "timeMonth": 162,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2026-08-12": 119
     }
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 47,
+      "2026-08-20": 46,
+      "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
